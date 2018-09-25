@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/solutions/batik/batik.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/batikexample.build/batikexample.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/usesbatik/usesbatik.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
